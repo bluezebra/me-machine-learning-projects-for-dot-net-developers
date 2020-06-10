@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace CSharp
 {
@@ -21,7 +20,7 @@ namespace CSharp
         public string Predict(int[] pixels)
         {
             Observation currentBest = null;
-            var shortest = Double.MaxValue;
+            var shortest = double.MaxValue;
 
             foreach (var obs in data)
             {
