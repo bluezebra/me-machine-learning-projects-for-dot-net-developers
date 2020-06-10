@@ -18,6 +18,7 @@ let trainingData = reader trainingPath
 
 
 let test = trainingData.[100].Label;;
+let myObs = { Label = "3"; Pixels = [| 1; 2; 3; 4; 5 |] }
 
 //let validationPath = @"E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\Data\validationsample.csv";
   
