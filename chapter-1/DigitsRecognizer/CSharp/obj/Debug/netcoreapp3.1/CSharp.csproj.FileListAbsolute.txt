@@ -1,0 +1,13 @@
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.1\CSharp.csprojAssemblyReference.cache
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+E:\git-personal\me-machine-learning-projects-for-dot-net-developers\chapter-1\DigitsRecognizer\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
